@@ -1,4 +1,4 @@
-## Prebuilt OpenSSL 1.1.1 for Android
+## Prebuilt OpenSSL 1.1.1 libraries for Android
 - Created with build script by [xdien](https://github.com/xdien/build_openssl_android_clang)
 - Built with NDK-r21e using configuration 
   ```
