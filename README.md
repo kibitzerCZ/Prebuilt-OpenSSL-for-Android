@@ -6,4 +6,4 @@
   ```
 - `armeabi-v7a`, `arm64-v8a`, `x86` and `x86_64` builds
 
-Respective include (header) files are available on [official web](https://www.openssl.org/source/old/1.1.1/).
+Respective include (header) files are available on [official OpenSSL web](https://www.openssl.org/source/old/1.1.1/).
