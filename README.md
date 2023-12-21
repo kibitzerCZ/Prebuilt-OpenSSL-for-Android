@@ -1,4 +1,4 @@
-## Prebuilt OpenSSL 1.1.1 static & dynamic libraries for Android
+## Prebuilt OpenSSL static & dynamic libraries for Android
 - Created with build script by [xdien](https://github.com/xdien/build_openssl_android_clang)
 - Built with NDK-r21e using configuration 
   ```
@@ -6,4 +6,4 @@
   ```
 - `armeabi-v7a`, `arm64-v8a`, `x86` and `x86_64` builds
 
-Respective include (header) files are available on [official OpenSSL web](https://www.openssl.org/source/old/1.1.1/).
+Respective include (header) files are available on [official OpenSSL web](https://www.openssl.org/source/old/).
